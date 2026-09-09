@@ -11,6 +11,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0035-search-insert-position](https://github.com/Yo761/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/Yo761/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Yo761/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/Yo761/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0704-binary-search](https://github.com/Yo761/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -28,4 +29,25 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | ------- | ------- |
 | [0066-plus-one](https://github.com/Yo761/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Yo761/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/Yo761/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Yo761/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Yo761/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Yo761/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Yo761/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Yo761/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
