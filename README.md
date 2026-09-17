@@ -16,6 +16,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0169-majority-element](https://github.com/Yo761/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Yo761/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Yo761/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Yo761/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/Yo761/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
@@ -33,6 +34,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yo761/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Yo761/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/Yo761/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -40,6 +42,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0066-plus-one](https://github.com/Yo761/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Yo761/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Yo761/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +68,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Yo761/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +97,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Yo761/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Yo761/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -107,4 +112,8 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Yo761/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
