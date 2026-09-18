@@ -82,6 +82,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yo761/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Yo761/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Yo761/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Yo761/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
@@ -98,6 +99,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yo761/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/Yo761/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/Yo761/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
@@ -124,4 +126,8 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Yo761/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Yo761/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
