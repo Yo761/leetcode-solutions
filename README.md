@@ -7,6 +7,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yo761/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/Yo761/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Yo761/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Yo761/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
@@ -27,6 +28,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Yo761/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Yo761/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -156,4 +158,8 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Yo761/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Yo761/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
