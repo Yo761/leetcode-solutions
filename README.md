@@ -14,6 +14,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0088-merge-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yo761/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Yo761/leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yo761/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Yo761/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Yo761/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Yo761/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
@@ -30,6 +31,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0027-remove-element](https://github.com/Yo761/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Yo761/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yo761/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Yo761/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Yo761/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Yo761/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -41,6 +43,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yo761/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Yo761/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yo761/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Yo761/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
