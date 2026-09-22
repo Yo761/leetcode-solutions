@@ -25,6 +25,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0238-product-of-array-except-self](https://github.com/Yo761/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Yo761/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Yo761/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Yo761/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0704-binary-search](https://github.com/Yo761/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
@@ -93,6 +94,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0088-merge-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Yo761/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Yo761/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Yo761/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -101,6 +103,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yo761/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/Yo761/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Yo761/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +137,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0169-majority-element](https://github.com/Yo761/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/Yo761/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Yo761/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Yo761/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/Yo761/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
@@ -146,6 +150,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Yo761/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Yo761/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/Yo761/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Yo761/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
@@ -189,4 +194,16 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yo761/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yo761/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yo761/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Yo761/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
