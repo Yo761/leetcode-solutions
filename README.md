@@ -186,10 +186,12 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Yo761/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Yo761/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Yo761/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Yo761/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
