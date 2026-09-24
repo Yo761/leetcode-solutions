@@ -28,6 +28,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0347-top-k-frequent-elements](https://github.com/Yo761/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Yo761/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Yo761/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/Yo761/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
