@@ -28,6 +28,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0347-top-k-frequent-elements](https://github.com/Yo761/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Yo761/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/Yo761/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Yo761/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/Yo761/leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/Yo761/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
@@ -51,6 +52,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0344-reverse-string](https://github.com/Yo761/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Yo761/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/Yo761/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Yo761/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
@@ -102,6 +104,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0347-top-k-frequent-elements](https://github.com/Yo761/leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Yo761/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0455-assign-cookies](https://github.com/Yo761/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -191,6 +194,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Yo761/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/Yo761/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,4 +231,8 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Yo761/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Yo761/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
