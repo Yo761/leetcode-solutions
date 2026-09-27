@@ -73,6 +73,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Yo761/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/Yo761/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/Yo761/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Yo761/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Yo761/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
