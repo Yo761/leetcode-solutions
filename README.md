@@ -142,6 +142,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0344-reverse-string](https://github.com/Yo761/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Yo761/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Yo761/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yo761/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +150,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0234-palindrome-linked-list](https://github.com/Yo761/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Yo761/leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0739-daily-temperatures](https://github.com/Yo761/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yo761/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
