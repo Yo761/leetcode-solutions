@@ -25,6 +25,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0169-majority-element](https://github.com/Yo761/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Yo761/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Yo761/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Yo761/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Yo761/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Yo761/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -71,6 +72,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0035-search-insert-position](https://github.com/Yo761/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Yo761/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yo761/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Yo761/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Yo761/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -196,11 +198,13 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Yo761/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Yo761/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yo761/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/Yo761/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Yo761/leetcode-solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
