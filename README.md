@@ -144,6 +144,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0383-ransom-note](https://github.com/Yo761/leetcode-solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Yo761/leetcode-solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yo761/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/Yo761/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0682-baseball-game](https://github.com/Yo761/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/Yo761/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yo761/leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/Yo761/leetcode-solutions/tree/main/1544-make-the-string-great/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
