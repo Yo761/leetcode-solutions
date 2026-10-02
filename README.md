@@ -279,4 +279,16 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Yo761/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
