@@ -14,6 +14,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0027-remove-element](https://github.com/Yo761/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Yo761/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/Yo761/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0055-jump-game](https://github.com/Yo761/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/Yo761/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Yo761/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -114,6 +115,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Yo761/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0047-permutations-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Yo761/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -298,4 +300,5 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Yo761/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->
