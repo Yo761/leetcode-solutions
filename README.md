@@ -17,6 +17,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0047-permutations-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Yo761/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Yo761/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0057-insert-interval](https://github.com/Yo761/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/Yo761/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Yo761/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
