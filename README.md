@@ -17,6 +17,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0047-permutations-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Yo761/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Yo761/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/Yo761/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Yo761/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/Yo761/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Yo761/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -124,6 +125,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | ------- | ------- |
 | [0015-3sum](https://github.com/Yo761/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0056-merge-intervals](https://github.com/Yo761/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Yo761/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
@@ -283,6 +285,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Yo761/leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Yo761/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
