@@ -102,6 +102,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0013-roman-to-integer](https://github.com/Yo761/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Yo761/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/Yo761/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Yo761/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/Yo761/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Yo761/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Yo761/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
@@ -170,6 +171,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0014-longest-common-prefix](https://github.com/Yo761/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Yo761/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yo761/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0067-add-binary](https://github.com/Yo761/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/Yo761/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Yo761/leetcode-solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0344-reverse-string](https://github.com/Yo761/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
@@ -225,6 +227,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Yo761/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/Yo761/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Yo761/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -315,6 +318,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Yo761/leetcode-solutions/tree/main/0067-add-binary/) | Easy |
 | [0682-baseball-game](https://github.com/Yo761/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
