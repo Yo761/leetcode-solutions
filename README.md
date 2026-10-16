@@ -332,6 +332,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0110-balanced-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +343,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0110-balanced-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -353,6 +355,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0110-balanced-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,4 +403,8 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [1661-average-time-of-process-per-machine](https://github.com/Yo761/leetcode-solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/Yo761/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Yo761/leetcode-solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
