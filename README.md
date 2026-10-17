@@ -332,6 +332,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0110-balanced-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Yo761/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -344,6 +345,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0110-balanced-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Yo761/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -357,6 +359,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0110-balanced-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Yo761/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Backtracking
@@ -364,6 +367,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | ------- | ------- |
 | [0046-permutations](https://github.com/Yo761/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
