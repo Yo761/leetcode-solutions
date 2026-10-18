@@ -155,6 +155,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0005-longest-palindromic-substring](https://github.com/Yo761/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Yo761/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0055-jump-game](https://github.com/Yo761/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yo761/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yo761/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -325,6 +326,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yo761/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0100-same-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yo761/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -352,6 +354,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yo761/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0100-same-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yo761/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -367,6 +370,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | ------- | ------- |
 | [0046-permutations](https://github.com/Yo761/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -425,4 +429,8 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 <!---LeetCode Topics End-->
