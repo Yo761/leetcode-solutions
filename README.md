@@ -414,6 +414,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0596-classes-with-at-least-5-students](https://github.com/Yo761/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0619-biggest-single-number](https://github.com/Yo761/leetcode-solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Yo761/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/Yo761/leetcode-solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Yo761/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/Yo761/leetcode-solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/Yo761/leetcode-solutions/tree/main/1075-project-employees-i/) | Easy |
