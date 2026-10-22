@@ -338,6 +338,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0113-path-sum-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +367,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0113-path-sum-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -448,4 +450,5 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
