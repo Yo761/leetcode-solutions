@@ -442,6 +442,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [1789-primary-department-for-each-employee](https://github.com/Yo761/leetcode-solutions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1907-count-salary-categories](https://github.com/Yo761/leetcode-solutions/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/Yo761/leetcode-solutions/tree/main/1934-confirmation-rate/) | Medium |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Yo761/leetcode-solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Yo761/leetcode-solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
