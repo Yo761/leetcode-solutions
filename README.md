@@ -15,6 +15,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Yo761/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Yo761/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/Yo761/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Yo761/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Yo761/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
@@ -376,6 +377,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Yo761/leetcode-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Yo761/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0095-unique-binary-search-trees-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
