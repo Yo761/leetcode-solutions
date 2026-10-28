@@ -109,6 +109,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0202-happy-number](https://github.com/Yo761/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Yo761/leetcode-solutions/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Yo761/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0279-perfect-squares](https://github.com/Yo761/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +164,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yo761/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Yo761/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0279-perfect-squares](https://github.com/Yo761/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Yo761/leetcode-solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -412,6 +414,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Yo761/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/Yo761/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -472,4 +475,12 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | ------- | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Yo761/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Yo761/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Yo761/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
