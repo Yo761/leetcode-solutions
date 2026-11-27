@@ -24,6 +24,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0057-insert-interval](https://github.com/Yo761/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/Yo761/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Yo761/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yo761/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -65,6 +66,7 @@ My LeetCode solutions in Python for DSA and coding interview preparation.
 | [0027-remove-element](https://github.com/Yo761/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yo761/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/Yo761/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Yo761/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yo761/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Yo761/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Yo761/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
